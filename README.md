@@ -1,4 +1,4 @@
-## ** Сборка проекта**
+## **Сборка проекта**
 1. В корне репозитория выполните команды:
     ```bash
     cmake -B build -DCMAKE_TOOLCHAIN_FILE="<путь_до_вашей_папки_vcpkg>/scripts/buildsystems/vcpkg.cmake"
